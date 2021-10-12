@@ -97,3 +97,4 @@ local.properties
 ##### commit 제외파일 #####
 /MyGitExample/src/nocommit_all/
 /MyGitExample/src/nocommit_some/NoCommit_3.java
+/MyGitExample/src/nocommit_some/NoCommit_5_right.java
